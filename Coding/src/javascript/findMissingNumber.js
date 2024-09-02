@@ -8,6 +8,4 @@ function findMissingNumber(nums) {
     return sum - arraySum;
 }
 
-// Test the function
 console.log(findMissingNumber([3, 0, 1]));
-// Output: 2

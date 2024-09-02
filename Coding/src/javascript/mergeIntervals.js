@@ -6,7 +6,6 @@
  function mergeIntervals(intervals) {
     if (intervals.length === 0) return [];
     
-    // Sort intervals by starting time
     intervals.sort((a, b) => a[0] - b[0]);
     
     const merged = [intervals[0]];

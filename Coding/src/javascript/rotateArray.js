@@ -10,8 +10,6 @@
     }
 }
 
-// Test the function
 const arr = [1, 2, 3, 4, 5, 6, 7];
 rotateArray(arr, 3);
 console.log(arr);
-// Output: [5, 6, 7, 1, 2, 3, 4]

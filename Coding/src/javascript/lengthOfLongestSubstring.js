@@ -19,6 +19,4 @@
     return maxLen;
 }
 
-// Test the function
 console.log(lengthOfLongestSubstring("abcabcbb"));
-// Output: 3 (The longest substring is "abc")

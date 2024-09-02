@@ -11,6 +11,4 @@
     return true;
 }
 
-// Test the function
 console.log(isPrime(7));
-// Output: true
